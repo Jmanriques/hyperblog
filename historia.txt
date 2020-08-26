@@ -9,5 +9,15 @@ hoy hablamos de su historia.
 tiene que concentrase más 
 
 master 1
+<<<<<<< HEAD
+=======
+
+<<<<<<< HEAD
+>>>>>>> 45ae329... prueba rebase master 3
 master 2
 prueba 1
+=======
+prueba 1
+
+prueba 2
+>>>>>>> caaf834... prueba rebase prueba 2
