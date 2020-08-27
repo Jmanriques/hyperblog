@@ -11,3 +11,4 @@ Este proyecto me ayuda a crecer profesionalmente, manejando nuevas herramientas,
 * configuracion de llaves ssh y https
 * como actuaizar mis archivos y como mirar el historial de las contribuciones de otras personas.
 * creado em proceso de aprendizaje
+* incluye ejemplos en windows linux y mac
