@@ -10,3 +10,4 @@ Este proyecto me ayuda a crecer profesionalmente, manejando nuevas herramientas,
 * como crear un reporsitorio remoto
 * configuracion de llaves ssh y https
 * como actuaizar mis archivos y como mirar el historial de las contribuciones de otras personas.
+* creado em proceso de aprendizaje
